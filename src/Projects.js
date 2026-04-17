@@ -122,6 +122,13 @@ function Projects() {
           link="https://plugin-archive-17.netlify.app/"
           description="Stores plugin names and vulnerabilities using local storage."
         />
+
+        <ProjectCard
+          title="Text to Blocks"
+          image="/images/text-to-blocks.png"
+          link="https://text-to-blocks-17.netlify.app/"
+          description="Transfer text to blocks"
+        />
       </SimpleGrid>
     </Box>
   );
