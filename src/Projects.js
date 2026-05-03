@@ -129,6 +129,13 @@ function Projects() {
           link="https://text-to-blocks-17.netlify.app/"
           description="Transfer text to blocks"
         />
+
+        <ProjectCard
+          title="Restaurent La Maison"
+          image="/images/R-la-maison.png"
+          link="https://la-maison-restaurent-17.netlify.app/"
+          description="Restaurent landing page"
+        />
       </SimpleGrid>
     </Box>
   );
