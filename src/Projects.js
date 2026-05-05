@@ -136,6 +136,12 @@ function Projects() {
           link="https://la-maison-restaurent-17.netlify.app/"
           description="Restaurent landing page"
         />
+        <ProjectCard
+          title="Coffee Corner"
+          image="/images/coffee-corner.png"
+          link="https://coffee-corner-17.netlify.app/"
+          description="Coffee shop landing page"
+        />
       </SimpleGrid>
     </Box>
   );
